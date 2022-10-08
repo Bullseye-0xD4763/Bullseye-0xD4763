@@ -7,4 +7,4 @@
 
 I'm João Cardoso, currently in my final year studying Computer Science and Engineering
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bullseye-0xD4763)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bullseye-0xD4763)]
