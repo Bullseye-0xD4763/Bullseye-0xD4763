@@ -49,17 +49,12 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 - **Computer Laboratories I** - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-I)
 - **Imperative Programming**  - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/Bullseye-0xD4763/Imperative-Programming)
 - **Computer Laboratories II** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-II)
-
-
-- **Simple Football Manager- OOP**  - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Exercises](https://github.com/simaocunha71/POO) | [Project](https://github.com/Bullseye-0xD4763/Simple-Football-Manager)
-- **Laboratórios de Informática III** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/simaocunha71/sgr-uminho)
-
-- **Inteligência Artificial**  - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - [Exercises](https://github.com/simaocunha71/ia) | [Project](https://github.com/simaocunha71/artificial-intelligent-green-distribution)
-- **Desenvolvimento de Sistemas de Software** (Software Systems Development) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Project](https://github.com/simaocunha71/reparation-center-dss)
-
-- **Processamento de Linguagens**  ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) - [Projects](https://github.com/simaocunha71/pl_projeto)
-- **Computação Gráfica** (Computer Graphics) - ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OGL badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) - [Project](https://github.com/simaocunha71/engineandgenerator3D)
-
+- **Object Oriented Programming - Simple Football Manager**  - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -r [Project](https://github.com/Bullseye-0xD4763/Simple-Football-Manager)
+- **Computer Laboratories III** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/Bullseye-0xD4763/Computing-Laboratories-III)
+- **Inteligência Artificial**  - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - [Exercises](https://github.com/simaocunha71/ia) | [Project](https://github.com/Bullseye-0xD4763/Artificial-Intelligence)
+- **Desenvolvimento de Sistemas de Software** (Software Systems Development) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Development-of-Sofware-Systems)
+- **Processamento de Linguagens**  ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) - [Projects](https://github.com/Bullseye-0xD4763/Language-Processing)
+- **Graphic Computation** - ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OGL badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) - [Project](https://github.com/Bullseye-0xD4763/Graphic-Computation)
 
 </details>
 
