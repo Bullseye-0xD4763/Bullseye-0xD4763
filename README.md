@@ -11,7 +11,7 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 - 🔭 I’m currently working on Getting my first Cyber Sec Job 
 - 🌱 I’m currently learning Privilege Escalattion (Linux/Windows) 
 - 📫 How to reach me: Linkedin 
-- ⚡ Fun fact: Globally, 30,000 websites are hacked daily. 
+- ⚡ Fun fact: In 2022, businesses around the globe face a ransomware attack every 11 seconds.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bullseye-0xD4763 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-378a6913b//)  
