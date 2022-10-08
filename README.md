@@ -45,9 +45,9 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 <summary><b> Bachelor's degree :books:</b></summary>
   
 
-- **Programação Funcional** (Functional Programming) - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Exercises](https://github.com/simaocunha71/PF_Haskell)
-- **Laboratórios de Informática I** (Informatic Labs I)- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/simaocunha71/LI1_ExciteBike)
-- **Programação Imperativa** (Imperative Programming) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/simaocunha71/PI_C)
+- **Functional Programming** (Functional Programming) - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Projects](https://github.com/Bullseye-0xD4763/Functional-Programming)
+- **Computer Laboratories I** (Informatic Labs I)- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-I)
+- **Imperative Programming** (Imperative Programming) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/Bullseye-0xD4763/Imperative-Programming)
 - **Laboratórios de Informática II** (Informatic Labs II)- ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/surumkata/rastros)
 
 
@@ -76,10 +76,7 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
- 
-
- 
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, 
 </details>
 
 
