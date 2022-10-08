@@ -2,7 +2,9 @@
 #### Finalist Computer Science and Enginering Undergraduate Student
 
 
-<div align="center">
+Here's how to get in touch with me:
+
+<div align="left">
 
   <a href="">[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-cunha-379785202/)</a>
   <a href="">[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jpc.general@protonmail.com)</a>
