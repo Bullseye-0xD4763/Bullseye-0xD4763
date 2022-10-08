@@ -6,6 +6,16 @@
 
 I'm João Cardoso, a finalist undegraduate student of Computer Science and Engineering, enrolled at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
 
+Here's how to get in touch with me:
+
+<div align="center">
+
+  <a href="">[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-cunha-379785202/)</a>
+  <a href="">[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simaocunha71/)</a>
+  <a href="">[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simaopscunha@outlook.pt)</a>
+
+</div>
+
 Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / Java / Haskell / HTML 
  
 ### 🧰 Languages and Tools
