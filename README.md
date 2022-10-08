@@ -2,7 +2,7 @@
 #### Finalist Computer Science and Enginering Student
 ![Finalist Computer Science and Enginering Student](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FPjP235b.gif&f=1&nofb=1&ipt=2f76fd6eed98f00cd8854fa13e573beda0c0cf1c24e3f1bece0c13836d15794e&ipo=images)
 
-
+** Test **
 
 I'm João Cardoso, a finalist undegraduate student of Computer Science and Engineering, enrolled at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
 
