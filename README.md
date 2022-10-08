@@ -1,12 +1,6 @@
 ### Hi there 👋, João Cardoso
 #### Finalist Computer Science and Enginering Undergraduate Student
-![Finalist Computer Science and Enginering Student](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FPjP235b.gif&f=1&nofb=1&ipt=2f76fd6eed98f00cd8854fa13e573beda0c0cf1c24e3f1bece0c13836d15794e&ipo=images)
 
-**'Test'**
-
-I'm João Cardoso, a finalist undegraduate student of Computer Science and Engineering, enrolled at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
-
-Here's how to get in touch with me:
 
 <div align="center">
 
@@ -15,6 +9,16 @@ Here's how to get in touch with me:
   <a href="">[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simaopscunha@outlook.pt)</a>
 
 </div>
+
+![Finalist Computer Science and Enginering Student](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FPjP235b.gif&f=1&nofb=1&ipt=2f76fd6eed98f00cd8854fa13e573beda0c0cf1c24e3f1bece0c13836d15794e&ipo=images)
+
+**'Test'**
+
+I'm João Cardoso, a finalist undegraduate student of Computer Science and Engineering, enrolled at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
+
+Here's how to get in touch with me:
+
+
 
 Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / Java / Haskell / HTML 
  
