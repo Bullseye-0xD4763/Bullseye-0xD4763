@@ -73,7 +73,6 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bullseye-0xD4763 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-378a6913b//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bullseye-0xD4763 )](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
