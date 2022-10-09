@@ -49,11 +49,11 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 - **Computer Laboratories I** - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-I)
 - **Imperative Programming**  - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Mini-Projects](https://github.com/Bullseye-0xD4763/Imperative-Programming)
 - **Computer Laboratories II** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-II)
-- **Object Oriented Programming** (Simple Football Manager)  - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -r [Project](https://github.com/Bullseye-0xD4763/Simple-Football-Manager)
+- **Object Oriented Programming** (Simple Football Manager)  - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  [Project](https://github.com/Bullseye-0xD4763/Simple-Football-Manager)
 - **Computer Laboratories III** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [Project](https://github.com/Bullseye-0xD4763/Computing-Laboratories-III)
 - **Artificial Intelligence**  - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - [Project](https://github.com/Bullseye-0xD4763/Artificial-Intelligence)
 - **Development of Software Systems** ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Project](https://github.com/Bullseye-0xD4763/Development-of-Sofware-Systems)
-- **Processamento de Linguagens**  ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) - [Projects](https://github.com/Bullseye-0xD4763/Language-Processing)
+- **Language Processing**  ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) - [Projects](https://github.com/Bullseye-0xD4763/Language-Processing)
 - **Graphic Computation**  ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OGL badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) - [Project](https://github.com/Bullseye-0xD4763/Graphic-Computation)
 
 </details>
