@@ -27,7 +27,7 @@ Here's how to get in touch with me:
 
 
 
-Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / Java / Haskell / HTML 
+Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / Java / Haskell / HTML  
  
 ### 🧰 Languages and Tools
 
