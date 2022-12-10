@@ -74,10 +74,6 @@ Skills: C / Python / Bash / CTF / Hackthebox / Nmap / Metasploit / Wireshark  / 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bullseye-0xD4763 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-378a6913b//)  
 
 
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, 
-</details>
 
 
  
