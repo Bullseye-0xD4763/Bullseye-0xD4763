@@ -56,8 +56,8 @@
 
 
 - 🔭 I’m currently working on Getting my first Cyber Sec Job 
-- 🌱 I’m currently learning Privilege Escalattion (Linux/Windows) 
-- 📫 How to reach me: Linkedin 
+- 🌱 I’m currently learning about Web Application Pentesting.
+- 📫 How to reach me: Email or Linkedin 
 - ⚡ Fun fact: In 2022, businesses around the globe faced a ransomware attack every 11 seconds.
 
 
