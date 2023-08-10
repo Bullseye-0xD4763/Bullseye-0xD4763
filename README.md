@@ -1,7 +1,3 @@
-### Hi there 👋, João Cardoso
-#### Finalist Computer Science and Enginering Undergraduate Student
-
-
 Here's how to get in touch with me:
 
 <div align="left">
