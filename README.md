@@ -1,4 +1,6 @@
-Here's how to get in touch with me:
+
+
+# Here's how to get in touch with me:
 
 <div align="left">
 
@@ -17,7 +19,7 @@ Here's how to get in touch with me:
 
 
 
-I'm João Cardoso, a finalist undegraduate student of Computer Science and Engineering, enrolled at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
+I'm João Cardoso, Bsc in Computer Science and Engineering, at University of Minho. I'm fascinated by most computer science topics, althought with a heavy preference for the vast and complex field of cyber security.
 
 Here's how to get in touch with me:
 
